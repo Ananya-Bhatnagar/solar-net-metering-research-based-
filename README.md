@@ -1,0 +1,2 @@
+# solar-net-metering-research-based-
+Net metering (or net energy metering, NEM) is an electricity billing mechanism that allows consumers who generate some or all of their own electricity to use that electricity anytime, instead of when it is generated. This is particularly important with renewable energy sources like wind and solar, which are non-dispatchable (when not coupled to storage). Monthly net metering allows consumers to use solar power generated during the day at night, or wind from a windy day later in the month. 
